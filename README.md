@@ -2,6 +2,10 @@
 
 This project was made by Usman Chaudhry for Comp 585
 
+## Short Gif of project
+
+<p><img align = "right" tsrc = " " width = "500" height = "320" /></p>
+
 ## Available Scripts
 
 In the project directory, you can run:
