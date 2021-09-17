@@ -4,7 +4,7 @@ This project was made by Usman Chaudhry for Comp 585
 
 ## Short Gif of project
 
-<p><img align = "right" tsrc = " " width = "500" height = "320" /></p>
+<p><img  tsrc = "https://github.com/usmanjchaudhry/calculatorhistory/blob/main/basic%20Calculator.gif" width = "500" height = "320" /></p>
 
 ## Available Scripts
 
